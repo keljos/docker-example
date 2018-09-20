@@ -8,8 +8,6 @@ public class Hello {
         get("/", (req, res) -> {
             return "hello from sparkjava.com";
         });
-        
-        foo; //make it fail
     }
 
 }
