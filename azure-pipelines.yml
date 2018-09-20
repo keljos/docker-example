@@ -19,4 +19,5 @@ steps:
     jdkVersionOption: 1.8
     jdkArchitectureOption: x64
     checkStyleRunAnalysis: true
+    pmdRunAnalysis: true
     findBugsRunAnalysis: true
